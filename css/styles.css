@@ -107,9 +107,9 @@ body {
 }
 .copyright-wrapper {
 	display: flex;
-  -webkit-box-pack: justify;
-  justify-content: space-between;
-  padding: 10px 0 20px;
+  	-webkit-box-pack: justify;
+  	justify-content: space-between;
+  	padding: 10px 0 20px;
 }
 .footer-links-terms ul li {
   display: inline-block;
@@ -255,9 +255,9 @@ body {
 /*Fivth Highlight Section */
 .fifth-heghlight-wrapper {
 	display: flex;
-  -webkit-box-pack: justify;
-  justify-content: space-between;
-  background: #fff;
+ 	 -webkit-box-pack: justify;
+  	justify-content: space-between;
+  	background: #fff;
 }
 .fifth-heghlight-wrapper .left-side-wrapper {
 	background-image:  url("../images/home/apple-tv-background.jpg"); 
@@ -289,9 +289,9 @@ body {
 /*Sixth Highlight Section */
 .sixth-heghlight-wrapper {
 	display: flex;
-  -webkit-box-pack: justify;
-  justify-content: space-between;
-  background: #fff;
+  	-webkit-box-pack: justify;
+	justify-content: space-between;
+	background: #fff;
 }
 .sixth-heghlight-wrapper .left-side-wrapper {
 	background-image:  url("../images/home/macbook-pro.jpg"); 
